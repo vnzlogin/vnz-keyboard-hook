@@ -1,0 +1,17 @@
+{
+  "name": "vnz-keyboard-hook",
+  "version": "0.1.2",
+  "description": "A Node JS module to help you hook keyboard events.",
+  "main": "nkbhook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyboard",
+    "mouse",
+    "emulation"
+  ],
+  "author": "Vnzlogin <support@vnzweb.com> (http://vnzlogin.com/)",
+  "repository": "https://github.com/vnzlogin/vnz-keyboard-hook",
+  "license": "MIT"
+}

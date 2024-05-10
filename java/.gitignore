@@ -1,0 +1,15 @@
+*.iml
+*.ipr
+*.iws
+.idea
+.idea/
+/lib
+/target
+/tmp
+bower_components/
+build/
+node_modules/
+app/node_modules/
+npm-debug*
+.DS_Store
+points.txt
