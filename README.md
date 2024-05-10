@@ -3,7 +3,7 @@ This Module help you to listen for Keyboard Actions natively. It uses a Java Mod
 
 ### Install
 
-    npm install --save nkb-hook
+    npm install --save vnz-keyboard-hook
 
 
 ### Examples
